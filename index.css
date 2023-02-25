@@ -1,0 +1,95 @@
+
+.text {
+    margin-left: 33%;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+    position: relative;
+    padding-top: 30px;
+}
+.text-cont {
+    position: absolute;
+    left: 40px;
+    top: 25px;
+    background: #ffffff;
+    padding: 0 5px;
+    font-size: 24px;
+
+}
+.content {
+    display: flex;
+}
+.content-title {
+    margin: 17px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content-text {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer {
+    position: relative;
+    padding-top: 30px;
+}
+.footer-text {
+    position: absolute;
+    left: 40px;
+    top: 25px;
+    background: #fff;
+    padding: 0 10px;
+    font-size: 24px;
+
+}
+.foot3 {
+    display: flex;
+}
+.text1 {
+    margin: 17px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text2 {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bio {
+    position: relative;
+    padding-top: 30px;
+}
+.footer-bio {
+    position: absolute;
+    left: 35px;
+    top: 25px;
+    background: #fff;
+    padding: 0 10px;
+    font-size: 24px;
+}
+
+.bio2 {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mes {
+    position: relative;
+    padding-top: 30px;
+}
+.footer-mes {
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    background: #fff;
+    padding: 0 10px;
+    font-size: 24px;
+}
+.logo {
+    text-align: center;
+}
+.logo-text {
+    padding: 20px;
+    margin: 20px;
+}
+.img {
+    width: 5%;
+}
